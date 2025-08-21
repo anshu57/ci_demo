@@ -7,7 +7,7 @@ def add(a,b):
     return a+b
 
 
-greet("Anil")
+greet("Anil") 
 
 
-print(add(5,2))
+print(add(5,2)) 
