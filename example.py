@@ -1,10 +1,6 @@
-import math
 
 def greet(name):
     print(f"Hello {name}")
-
-
-
 
 
 def add(a,b):
@@ -12,4 +8,6 @@ def add(a,b):
 
 
 greet("Anil")
+
+
 print(add(5,2))
