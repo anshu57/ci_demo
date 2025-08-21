@@ -12,5 +12,5 @@ class TestMathFunctions(unittest.TestCase):
         self.assertEqual(mul(10, 2), 20)
         self.assertEqual(mul(3, 10), 30)
 
-if __name__=='__main__':
+if __name__ == '__main__':
     unittest.main()
